@@ -1,0 +1,20 @@
+# Power BI temp / backup files
+*.pbix.bak
+*.pbi.bak
+.pbi/
+*.pbids.bak
+
+# Office lock files
+~$*
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / Python scratch
+.vscode/
+.idea/
+__pycache__/
+*.pyc
